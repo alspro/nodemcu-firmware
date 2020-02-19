@@ -492,7 +492,7 @@ Event information provided for each event is as follows:
 - `sta_connected`: information about the client that connected:
     - `mac`: the MAC address
     - `id`: assigned station id (AID)
-- `disconnected`: information about disconnecting client
+- `sta_disconnected`: information about disconnecting client
     - `mac`: the MAC address
     - `id`: assigned station id (AID)
 - `probe_req`: information about the probing client
